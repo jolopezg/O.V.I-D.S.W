@@ -45,7 +45,7 @@ ul,ol{
 	display:block;
 }
 #Menu .contenedor{
-  position: relative;
+  position: fixed;
 } 
 h1{
 	text-align: center;
@@ -59,7 +59,7 @@ h1{
   top:15%;
 }
 #footer .contenedor{
-	position: absolute;
+	position: fixed;
 	margin:4px;
 	background-color:white;
 	padding:1px;
